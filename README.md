@@ -14,7 +14,7 @@
 8.	Stop the program. 
 # PROGRAM
 
-```
+```c
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
